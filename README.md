@@ -5,7 +5,7 @@
 In this lesson, you will learn the following:
 
 * How to allow a user to execute the dispatch function by attaching dispatch to
-  event listeners.
+event listeners.
 * The redux flow.
 
 Use `js/reducer.js` to follow along. The file is already set up in `index.html`,
